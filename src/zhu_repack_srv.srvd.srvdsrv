@@ -1,0 +1,5 @@
+@EndUserText.label: 'Repack HU - Service Definition'
+define service ZHU_REPACK_SRV {
+  expose ZI_REPACK_HANDLING_UNIT;
+  expose ZI_REPACK_EQUIPMENTS;
+}
